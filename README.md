@@ -6,6 +6,6 @@ Spatial transcriptomics (ST) technology aims to detect the quantity of gene tran
 - NVIDIA GPU (a single Nvidia GeForce RTX 3090)
 - `pip install -r requiremnts.txt`
 ## Get Started
-To run the demo of ST data, you can : `python human_melanoma_ST_data.py`
-To run the demo of 10X Visium data, you can : `python Human_Invasive_Ductal_Carcinoma_10X_data.py`
-If you want to evaluate PCCs (Pearson Correlation Coefficients), you can : `PCCs/main.py`
+- To run the demo of ST data, you can : `python human_melanoma_ST_data.py`
+- To run the demo of 10X Visium data, you can : `python Human_Invasive_Ductal_Carcinoma_10X_data.py`
+- If you want to evaluate PCCs (Pearson Correlation Coefficients), you can : `PCCs/main.py`
